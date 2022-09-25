@@ -1,0 +1,9 @@
+{
+	"imports": {
+		"static/": "./src/static/",
+		"utils/": "./src/utils/",
+		"std/": "https://deno.land/std@0.156.0/",
+		"readline": "https://deno.land/x/get_stdin/mod.ts",
+		"redfish/": "./src/redfishapi/"
+	}
+}
